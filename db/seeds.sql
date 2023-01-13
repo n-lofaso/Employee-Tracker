@@ -19,7 +19,7 @@ VALUES ("Eugine", "Krabs", 1, null),
        ("Spongebob", "Squarepants", 2, 1),
        ("Sandy", "Cheeks", 3, null),
        ("Patrick", "Star", 4, 3),
-       ("Squidward", "Tentacles", 5, null),
-       ("Sheldon", "Plankton", 6, 5),
+       ("Squilliam", "Fancyson", 5, null),
+       ("Squidward", "Tenctacles", 6, 5),
        ("Smitty", "Werbenjagermanjensen", 7, null),
-       ("Squilliam", "Fancyson", 8, 7);
+       ("Sheldon", "Plankton", 8, 7);
