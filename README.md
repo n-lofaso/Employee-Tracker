@@ -23,9 +23,8 @@
   ![employeetracker](https://user-images.githubusercontent.com/114538098/212238069-1f54e592-b9ca-4eeb-b0f5-b64ee6b2d247.png)
 
 
-  ## Demo video Link![Uploading employeetracker.png…]()
+  ## Demo video Link!
 
-  
   https://drive.google.com/file/d/1aJfuFVar7RjEWXykNGP1yy3zDStfZDre/view
     
  ## License
